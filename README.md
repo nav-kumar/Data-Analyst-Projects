@@ -5,6 +5,10 @@ This Portfolio is a compilation of the Data Analysis, Data Science and Machine L
 - **Email:** pabbathi2995@gmail.com
 - **LinkedIn:** [linkedin.com/in/naveen-kumar-pabbathi](https://www.linkedin.com/in/naveen-kumar-pabbathi-715194102)
 
+- **##Skills**
+- 
+- !Alttext[These are the tools and skills i have learned to excel myself in the field of Data Science and Analytics](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.sketchappsources.com%2Ffree-source%2F2378-python-logo-vector-sketch-freebie-resource.html&psig=AOvVaw0DngUiA99Uw-WuptDw_EDt&ust=1700315165538000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPDWoLqWy4IDFQAAAAAdAAAAABAJ)
+
 ## Projects
 
 # 1. IBM Data Science Capstone Project - SpaceX Falcon9
