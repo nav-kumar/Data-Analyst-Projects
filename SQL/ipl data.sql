@@ -1,3 +1,0 @@
-select *from dbo.ipl_ball_by_ball_2008_2022
-select *from dbo.ipl_matches_2008_2022;
-select count(*)from dbo.ipl_matches_2008_2022 as total where team1='Deccan Chargers' 
