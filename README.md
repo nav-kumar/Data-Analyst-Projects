@@ -16,7 +16,41 @@ This Portfolio is a compilation of the Data Analysis, Data Science and Machine L
 8. Microsoft Powerpoint
 9. Communication & Leadership
 
-## Projects
+# PROJECTS 
+
+# CREATING DASHBOARDS USING ADVANCED EXCEL
+
+## 1. Analysis of customer service data using Advanced Microsoft Excel
+
+In this project, i have created a dashboard using Microsoft Excel successfully. iVision is a well-known analytics firm. iVision does analytics on the data shared by their clients. Recently, iVision collaborated with Nile, an E-commerce company. Nile intends to improve their customer service, but before doing so, Nile wants to get some insights on their customer service request data. To help Nile make better business decisions and improve their services, iVision is engaged to provide Nile access to the analytics dashboard and report. Nile has shared its customer service data with iVision. I have assumed myself as an employee of iVision for creating this analytics report.
+
+The dashboard gives you a perfect analysis of customer service data which i have analysed by performing various operations in excel right from creating charts, graphs, pivot tables, conditional formatting, data cleaning, removong duplicte data, handling missing values from the given data, performing data type changing operations.
+
+Follwing are the goals for the project that i have to perfrom to showcase them in final dashboard::1) Customer semtiment analysis 2) Root cause analysis 3) Identification of trends and patterns 4) Customer segmentation 5) Service response time analyis
+
+To create my dashboard, i have to handle missing values in my dataset. here are all the columns that i have in my dataset::1)id 2)customer_name 3)sentiment 4)csat_score 5)call_timestamp 6)reason 7)city 8)state 9)channel 10)response_time 11)call duration in minutes 12)call_center. 
+
+There are so many missing values in csat_score column for which i have used various imputation techniques using python and statistical methods to fill those missing values and performed data analysis to create dashboard. I have used statistical methods such as Mean, Median and mode to fill missing values along with various Machine learning techniques using python such as KNN Imputation, Regression, Random forest algorithms to fill those missing values and created seperate dashboard for each and every scenario including a case where i have created a dashboard without consdering the column of csat_Score for data analysis.
+
+Here are the links for final dashboard
+https://github.com/nav-kumar/Data-Analyst-Projects/tree/c13c2259c23f52fffaf6e89315c560ba02922d62/Excel%20Dashboard%20Project
+
+## 2. NORTHFARM EXCEL DASHBOARD
+
+Excel Dashboard is created based on the farming data from kaggle website. Data contains all the relevant information from various states and countries around the world regarding farming cost, revenue, profit, loss. i have created a simple dashboard to get insights from the data.
+
+https://github.com/nav-kumar/Data-Analyst-Projects/blob/c13c2259c23f52fffaf6e89315c560ba02922d62/Excel%20Dashboard%20Project/NorthFarm%20Dashboard%20in%20Excel.xlsx
+
+## Practice sheets while learning various Advanced Excel functions which will be used in Data Analysis
+
+I have practised various functions and methods in excel which are useful for data analyis starting from advanced Filter, advanced sorting, creating macros across spreadsheets, pivot tables, vlookup, hlookup, date functions, text functions.
+
+https://github.com/nav-kumar/Data-Analyst-Projects/tree/c13c2259c23f52fffaf6e89315c560ba02922d62/Data%20Analysis%20for%20Excel
+
+# POWERBI PROJECTS 
+
+## 1. 
+
 
 # 1. IBM Data Science Capstone Project - SpaceX Falcon9
 
