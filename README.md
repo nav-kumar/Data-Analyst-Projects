@@ -49,8 +49,42 @@ https://github.com/nav-kumar/Data-Analyst-Projects/tree/c13c2259c23f52fffaf6e893
 
 # POWERBI PROJECTS 
 
-## 1. 
+# 1. AIRBNB DATA ANALYSIS USING POWERBI
 
+I have created a Dashborad based on huge datasets of Airbnb Listings and Reviews. The dataset has two dimensions: The Reviews dataset contains information about reviews left for Airbnb listings, while the Listings dataset contains all relevant details about the listed stays.
+
+The primary objective is to analyze Airbnb data to reveal insights into user experiences and satisfaction levels with the numerous listed stays, all accomplished using Power BI.
+
+Here are the goals i have set for the dashboard. Assessing most favourite places to visit based on popularity score, Analyzing composite scores, visualizing Airbnb Listings and prices, Assessing district location scores, Property type price analysis, Analyzing amenities provided based on property and room type, Review scores and many comprehensive insights that can be derived from Airbnb's dataset.
+
+This dashboard involved creating many DAX functions to analyze the data and plot the insights such as composite score, district location score, avg review score, avg host acceptance rate, avg host response rate, amenity count, booking frequency, host tenure, visitors, popularity score, review count, day of the week.
+
+Different data visualization techniques like line charts, bar charts, bubble charts, tree maps, scatter plots, heat maps, Word Cloud, cards, column charts along with traditional tabular data and slicers were used to visualize. The data was sourced from Airbnb's API. The data was then transformed and modeled using DAX. Here is the link for dashboard along with PDF, PPT 
+https://app.powerbi.com/links/wofLJvH_6B?ctid=d734e093-28ba-4ad7-a48a-07f581e459bd&pbi_source=linkShare&bookmarkGuid=d15f8e4d-9292-4021-b683-8da0e23aba46
+https://github.com/nav-kumar/Data-Analyst-Projects/blob/112bf6edaa17c543a1abd39335ef73e65c64b441/PowerBI%20Practice/Airbnb%20Data%20Analysis.pdf
+https://github.com/nav-kumar/Data-Analyst-Projects/blob/112bf6edaa17c543a1abd39335ef73e65c64b441/PowerBI%20Practice/Airbnb%20Data%20Analysis.pptx
+
+# IPL DATA ANALYSIS USING POWERBI
+
+Checkout my new Dashboard which is based on IPL(Indian Premier League) (matches and ball_by_ball) datastets spanning from 2008 to 2022.
+
+The datasets were first imported to Microsoft SQL Server Management studio and then connected it though PowerBI Desktop. The dashboard uses the data from SQL Server, the data was cleaned to perform analysis, data manipulation and various measures were created using DAX functions, Calendar table. The preprocessed and manipulated data was used for developing appropriate visualizations in dashboard.
+
+1) The dashboard gives you in-depth analysis on the IPL matches that have been played from 2008 to 2022.
+2) Selecting a particular year gives you a summary of title winner, orange cap holder, purple cap holder, tournament 6's, tournament 4's( which also vary when you select a particular player)
+3) IPL batting and bowling statistics of all the players who have played in IPL from 2008 to 2022 are displayed by selecting a particular player and they also vary in connection with the year.
+4) when you select a player for batting statistics, his total runs, 6's, 4's and Strike rate for all the years are displayed, where as when you select a bowler for stats, his total wickets along with his economy, average and bowling strike rate are displayed accordingly and also varies as per year.
+5) As we know toss plays a crucial role in IPL, i have created a donut chart which shows percentages of matches won on the basis of toss, percentages of matches won on the basis of result type(by wickets, by runs, super over).
+6) Another data visualization is a bar chart which shows the matches won by venue which also varies according to result type, total number of matches won by team in the entire span has been created and it also varies according to the year.
+Here is the link for dashboard :
+ https://github.com/nav-kumar/Data-Analyst-Projects/blob/112bf6edaa17c543a1abd39335ef73e65c64b441/PowerBI%20Practice/IPL%20DataAnalysis.pbix
+
+# HEALTHCARE ANALYTICS BASED ON PATIENTS DATA
+
+This dashboard gives you a detailed analysis that i have done using patients dataset for a hospital and performed data analysis. Analysis is done based on total patients visit by year, total patients by department referral, patients by weektype, patients by age group, total patients visit, administrative and non-administrative appointments segregation, average satisfaction score, service not rated, average wait time.
+
+https://app.powerbi.com/links/ENj6lGbaXd?ctid=d734e093-28ba-4ad7-a48a-07f581e459bd&pbi_source=linkShare
+https://github.com/nav-kumar/Data-Analyst-Projects/blob/34077d7b33577fa30b4bd6f24ea7c22e3f4f1e06/PowerBI%20Practice/HealthCare%20Analytics.pdf
 
 # 1. IBM Data Science Capstone Project - SpaceX Falcon9
 
