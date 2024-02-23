@@ -3,7 +3,7 @@
 <div id="header" align="center">
   <img src="https://imarticus.org/blog/wp-content/uploads/2017/10/scopet.gif" width="250"/>
 </div>
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/naveen-kumar-pabbathi-715194102/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
