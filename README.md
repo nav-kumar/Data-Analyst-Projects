@@ -32,7 +32,7 @@ This Portfolio is a compilation of the Data Analysis, Data Science and Machine L
 ## Skills
 | Skill | Rating(1-10) | Description | Link |
 |---|---|---|---|
-| <i class="fa-solid fa-file-excel"></i> Excel | 10 | Experienced in creating dashboards using advanced excel | [Excel Projects]([https://github.com/your-username/python-projects](https://github.com/nav-kumar/Data-Analyst-Projects/tree/b12ed4f5b8c4e4122c288fc5d94bfc4e1f3f8509/Excel%20Dashboard%20Project)) |
+| <i class="fa-solid fa-file-excel"></i> Excel | 10 | Experienced in creating dashboards using advanced excel | [Excel Projects](https://github.com/nav-kumar/Data-Analyst-Projects/tree/b12ed4f5b8c4e4122c288fc5d94bfc4e1f3f8509/Excel%20Dashboard%20Project) |
 | <i class="fab fa-python"></i> Python | 7 | Experienced with data analysis and web development | [My Python Projects](https://github.com/nav-kumar/Data-Analyst-Projects/tree/b12ed4f5b8c4e4122c288fc5d94bfc4e1f3f8509/Data%20Analysis%20using%20Python) |
 | PowerBI | 9 | Very good knowledge and hands-on in using POWERBI, performing data cleaning, processing, using DAX functions to create appropriate dashboards | [My PowerBI projects](https://github.com/nav-kumar/Data-Analyst-Projects/tree/b12ed4f5b8c4e4122c288fc5d94bfc4e1f3f8509/PowerBI%20Practice) |
 | <i class="fa-solid fa-database"></i> MYSQL | 8 | Proficient in using MYSQL and MS SQL Server databases in performing various data operations that are required for data analysis | [SQL Projects](https://github.com/nav-kumar/Data-Analyst-Projects/tree/b12ed4f5b8c4e4122c288fc5d94bfc4e1f3f8509/SQL) |
