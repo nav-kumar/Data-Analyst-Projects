@@ -1,27 +1,56 @@
 # Naveen Kumar Pabbathi
+
+<div id="header" align="center">
+  <img src="https://imarticus.org/blog/wp-content/uploads/2017/10/scopet.gif" width="250"/>
+</div>
+<div id="badges">
+  <a href="https://www.linkedin.com/in/naveen-kumar-pabbathi-715194102/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://thehiddenclairvoyant.wordpress.com/">
+    <img src="https://img.shields.io/badge/wordpress-orange?style=for-the-badge&logo=wordpress&logoColor=white" alt="Wordpress Badge"/>
+  </a>
+ <a href="https://open.spotify.com/show/6ZqQ2RZhiPomMshOD2MymX?si=edqr_KRmT1WkQfMOHYbCnw/">
+    <img src="https://img.shields.io/badge/SpotifyPodcast-green?style=for-the-badge&logo=podcast&logoColor=white" alt="Podcast Badge"/>
+  </a>
+  <a href="https://www.instagram.com/the_modest_meals?utm_source=qr&igsh=MWZrYTAyOG8yM21udg==/">
+    <img src="https://img.shields.io/badge/Cooking-white?style=for-the-badge&logo=cooking&logoColor=white" alt="Cooking Badge"/>
+  </a>
+  <a href="https://www.instagram.com/_sketch_beyond?utm_source=qr&igsh=NzZ2ODB2aGYwZHM0/">
+    <img src="https://img.shields.io/badge/PencilSketching-olive?style=for-the-badge&logo=sketching&logoColor=white" alt="Pencil Sketching Badge"/>
+  </a>
+  <a href="https://twitter.com/home">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
 # Data Analysis, Data Science and Machine Learning Portfolio
 This Portfolio is a compilation of the Data Analysis, Data Science and Machine Learning projects I have done for learning. It also contains my core competencies and certificates and is being updated on regular basis.
 
-- **Email:** pabbathi2995@gmail.com
-- **LinkedIn:** [linkedin.com/in/naveen-kumar-pabbathi](https://www.linkedin.com/in/naveen-kumar-pabbathi-715194102)
+**Email:** pabbathi2995@gmail.com
+  
+## Skills
+| Skill | Rating(1-10) | Description | Link |
+|---|---|---|---|
+| <i class="fa-solid fa-file-excel"></i> Excel | 10 | Experienced in creating dashboards using advanced excel | [Excel Projects]([https://github.com/your-username/python-projects](https://github.com/nav-kumar/Data-Analyst-Projects/tree/b12ed4f5b8c4e4122c288fc5d94bfc4e1f3f8509/Excel%20Dashboard%20Project)) |
+| <i class="fab fa-python"></i> Python | 7 | Experienced with data analysis and web development | [My Python Projects](https://github.com/nav-kumar/Data-Analyst-Projects/tree/b12ed4f5b8c4e4122c288fc5d94bfc4e1f3f8509/Data%20Analysis%20using%20Python) |
+| PowerBI | 9 | Very good knowledge and hands-on in using POWERBI, performing data cleaning, processing, using DAX functions to create appropriate dashboards | [My PowerBI projects](https://github.com/nav-kumar/Data-Analyst-Projects/tree/b12ed4f5b8c4e4122c288fc5d94bfc4e1f3f8509/PowerBI%20Practice) |
+| <i class="fa-solid fa-database"></i> MYSQL | 8 | Proficient in using MYSQL and MS SQL Server databases in performing various data operations that are required for data analysis | [SQL Projects](https://github.com/nav-kumar/Data-Analyst-Projects/tree/b12ed4f5b8c4e4122c288fc5d94bfc4e1f3f8509/SQL) |
+| Jupyter Notebook | 9 | Very good hands-on experience in using Jupyter notebook in performing Data analysis and visualization |[Jupyternotebook projects](https://github.com/nav-kumar/Data-Analyst-Projects/tree/b12ed4f5b8c4e4122c288fc5d94bfc4e1f3f8509/Data%20Analysis%20using%20Python) |
+| Satistics and Machine Learning Algorithms | 8 | Very good hands-on experience in applying my learnings on statistics and machine learning algorithms for efficient Data analysis and visualization | |
+| Microsoft Powerpoint | 10 | Skilled in using Powerpoint presentations which are essential for data analysis and visualization to explain insights from the data to respective stakeholders | |
+| Tableau | 6 | Learning Tableau for data analysis and visualization |[Tableau Learning Projects](https://github.com/nav-kumar/Data-Analyst-Projects/tree/b12ed4f5b8c4e4122c288fc5d94bfc4e1f3f8509/Tableau%20Learning) |
+| Problem Solving | 10 | Resourceful problem solver with a track record of driving efficiency and positive outcomes | |
+| Effective Communication & Leadership | 10 | I effectively communicate technical concepts to non-technical stakeholders, fostering team collaboration.I actively listen to diverse perspectives, ensuring all voices are heard and considered in data-driven decisions | |
 
-- ## Skills
-1. Microsoft Excel
-2. PowerBI
-3. Tableau
-4. SQL
-5. Python
-6. Statistics
-7. Machine Learning for Data Analytics
-8. Microsoft Powerpoint
-9. Communication & Leadership
+
 
 # PROJECTS 
 
 # CREATING DASHBOARDS USING ADVANCED EXCEL
 
-## 1. Analysis of customer service data using Advanced Microsoft Excel
-
+## Project 1
+<img align="left" width="250" height="150" src="https://i.ytimg.com/vi/6qOL69bIQz8/maxresdefault.jpg" alt="Alt text"> **[Call center Data Analysis-creating a dashboard with excel](https://github.com/nav-kumar/Data-Analyst-Projects/tree/c13c2259c23f52fffaf6e89315c560ba02922d62/Excel%20Dashboard%20Project)**
 In this project, i have created a dashboard using Microsoft Excel successfully. iVision is a well-known analytics firm. iVision does analytics on the data shared by their clients. Recently, iVision collaborated with Nile, an E-commerce company. Nile intends to improve their customer service, but before doing so, Nile wants to get some insights on their customer service request data. To help Nile make better business decisions and improve their services, iVision is engaged to provide Nile access to the analytics dashboard and report. Nile has shared its customer service data with iVision. I have assumed myself as an employee of iVision for creating this analytics report.
 
 The dashboard gives you a perfect analysis of customer service data which i have analysed by performing various operations in excel right from creating charts, graphs, pivot tables, conditional formatting, data cleaning, removong duplicte data, handling missing values from the given data, performing data type changing operations.
@@ -32,14 +61,9 @@ To create my dashboard, i have to handle missing values in my dataset. here are 
 
 There are so many missing values in csat_score column for which i have used various imputation techniques using python and statistical methods to fill those missing values and performed data analysis to create dashboard. I have used statistical methods such as Mean, Median and mode to fill missing values along with various Machine learning techniques using python such as KNN Imputation, Regression, Random forest algorithms to fill those missing values and created seperate dashboard for each and every scenario including a case where i have created a dashboard without consdering the column of csat_Score for data analysis.
 
-Here are the links for final dashboard
-https://github.com/nav-kumar/Data-Analyst-Projects/tree/c13c2259c23f52fffaf6e89315c560ba02922d62/Excel%20Dashboard%20Project
-
-## 2. NORTHFARM EXCEL DASHBOARD
-
+## Project 2
+<img align="left" width="250" height="150" src="https://other-levels.com/cdn/shop/products/5316FarmPerformanceManagementDashboard.xlsxwww.other-levels.com1.1_1024x.png?v=1680913895" alt="Alt text"> **[Analysis of NORTHFARM data- creating a dashboard with excel](https://github.com/nav-kumar/Data-Analyst-Projects/blob/c13c2259c23f52fffaf6e89315c560ba02922d62/Excel%20Dashboard%20Project/NorthFarm%20Dashboard%20in%20Excel.xlsx)**
 Excel Dashboard is created based on the farming data from kaggle website. Data contains all the relevant information from various states and countries around the world regarding farming cost, revenue, profit, loss. i have created a simple dashboard to get insights from the data.
-
-https://github.com/nav-kumar/Data-Analyst-Projects/blob/c13c2259c23f52fffaf6e89315c560ba02922d62/Excel%20Dashboard%20Project/NorthFarm%20Dashboard%20in%20Excel.xlsx
 
 ## Practice sheets while learning various Advanced Excel functions which will be used in Data Analysis
 
@@ -49,8 +73,8 @@ https://github.com/nav-kumar/Data-Analyst-Projects/tree/c13c2259c23f52fffaf6e893
 
 # POWERBI PROJECTS 
 
-# 1. AIRBNB DATA ANALYSIS USING POWERBI
-
+# Project 1
+<img align="left" width="250" height="150" src="https://miro.medium.com/v2/da:true/resize:fit:1200/0*NChTo-XqLOxLabIW" alt="Alt text"> **[AIRBNB DATA ANALYSIS USING POWERBI] (https://github.com/nav-kumar/Data-Analyst-Projects/blob/112bf6edaa17c543a1abd39335ef73e65c64b441/PowerBI%20Practice/Airbnb%20Data%20Analysis.pdf)**
 I have created a Dashborad based on huge datasets of Airbnb Listings and Reviews. The dataset has two dimensions: The Reviews dataset contains information about reviews left for Airbnb listings, while the Listings dataset contains all relevant details about the listed stays.
 
 The primary objective is to analyze Airbnb data to reveal insights into user experiences and satisfaction levels with the numerous listed stays, all accomplished using Power BI.
@@ -64,7 +88,8 @@ https://app.powerbi.com/links/wofLJvH_6B?ctid=d734e093-28ba-4ad7-a48a-07f581e459
 https://github.com/nav-kumar/Data-Analyst-Projects/blob/112bf6edaa17c543a1abd39335ef73e65c64b441/PowerBI%20Practice/Airbnb%20Data%20Analysis.pdf
 https://github.com/nav-kumar/Data-Analyst-Projects/blob/112bf6edaa17c543a1abd39335ef73e65c64b441/PowerBI%20Practice/Airbnb%20Data%20Analysis.pptx
 
-# IPL DATA ANALYSIS USING POWERBI
+# Project 2
+<img align="left" width="250" height="150" src="https://e1.pxfuel.com/desktop-wallpaper/831/468/desktop-wallpaper-tata-ipl-2022-set-to-welcome-fans-back-to-the-stadiums-tata-ipl.jpg" alt="Alt text"> **[IPL DATA ANALYSIS USING POWERBI] ( https://github.com/nav-kumar/Data-Analyst-Projects/blob/112bf6edaa17c543a1abd39335ef73e65c64b441/PowerBI%20Practice/IPL%20DataAnalysis.pbix)**
 
 Checkout my new Dashboard which is based on IPL(Indian Premier League) (matches and ball_by_ball) datastets spanning from 2008 to 2022.
 
@@ -76,11 +101,9 @@ The datasets were first imported to Microsoft SQL Server Management studio and t
 4) when you select a player for batting statistics, his total runs, 6's, 4's and Strike rate for all the years are displayed, where as when you select a bowler for stats, his total wickets along with his economy, average and bowling strike rate are displayed accordingly and also varies as per year.
 5) As we know toss plays a crucial role in IPL, i have created a donut chart which shows percentages of matches won on the basis of toss, percentages of matches won on the basis of result type(by wickets, by runs, super over).
 6) Another data visualization is a bar chart which shows the matches won by venue which also varies according to result type, total number of matches won by team in the entire span has been created and it also varies according to the year.
-Here is the link for dashboard :
- https://github.com/nav-kumar/Data-Analyst-Projects/blob/112bf6edaa17c543a1abd39335ef73e65c64b441/PowerBI%20Practice/IPL%20DataAnalysis.pbix
 
-# HEALTHCARE ANALYTICS BASED ON PATIENTS DATA
-
+# Project 3
+<img align="left" width="250" height="150" src="https://mms.businesswire.com/media/20200805005554/en/810664/5/healthcare-analytics.jpg" alt="Alt text"> **[HEALTHCARE ANALYTICS BASED ON PATIENTS DATA USING POWERBI](https://github.com/nav-kumar/Data-Analyst-Projects/blob/34077d7b33577fa30b4bd6f24ea7c22e3f4f1e06/PowerBI%20Practice/HealthCare%20Analytics.pdf)**
 This dashboard gives you a detailed analysis that i have done using patients dataset for a hospital and performed data analysis. Analysis is done based on total patients visit by year, total patients by department referral, patients by weektype, patients by age group, total patients visit, administrative and non-administrative appointments segregation, average satisfaction score, service not rated, average wait time.
 
 https://app.powerbi.com/links/ENj6lGbaXd?ctid=d734e093-28ba-4ad7-a48a-07f581e459bd&pbi_source=linkShare
