@@ -89,7 +89,7 @@ https://github.com/nav-kumar/Data-Analyst-Projects/blob/34077d7b33577fa30b4bd6f2
 # 1. IBM Data Science Capstone Project - SpaceX Falcon9
 
 ## Introduction
-
+<img align="left" width="250" height="150" src="https://w0.peakpx.com/wallpaper/47/792/HD-wallpaper-spacex-falcon-9-rocket-space-stars.jpg" alt="Alt text"> **[SpaceX Falcon9 Launch]**
 In this capstone, we will predict if the Falcon 9 first stage will land successfully. SpaceX advertises Falcon 9 rocket launches on its website, with a cost of 62 million dollars; other providers cost upward of 165 million dollars each, much of the savings is because SpaceX can reuse the first stage. Therefore if we can determine if the first stage will land, we can determine the cost of a launch. This information can be used if an alternate company wants to bid against SpaceX for a rocket launch. 
 
 This capstone project course will give you a taste of what data scientists go through in real life when working with real datasets. You will assume the role of a Data Scientist working for a startup intending to compete with SpaceX, and in the process follow the Data Science methodology involving [data collection], [data wrangling], [exploratory data analysis], [data visualization], [model development], [model evaluation], and [reporting](https://github.com/nav-kumar/Learning/blob/92f69bfc5b0c2fbfe0b77ffc4f249e6cef815a9a/SpaceX%20Final%20Project%20Presentation.pdf) your results to stakeholders. You are tasked with predicting if the first stage of the SpaceX Falcon 9 rocket will land successfully. 
@@ -102,14 +102,14 @@ SpaceX advertises Falcon 9 rocket launches on its website, with a cost of 62 mil
 - Explore the data in order to obtain more insight from the data.
 
 # Project 2
-<img align="left" width="250" height="140" src="Images/dashboard.png"/> **[Creating a Dashboard with Python: Airline Flights Performance](https://github.com/muratko357/dash_application/blob/main/US_Domestic_Airline_Flights_Performance.py)** 
+<img align="left" width="250" height="150" src="https://assets.fta.cirium.com/wp-content/uploads/2019/01/09024900/inv1.png" alt="Alt text"> **[Creating a Dashboard with Python: Airline Flights Performance](https://github.com/muratko357/dash_application/blob/main/US_Domestic_Airline_Flights_Performance.py)** 
 
 _Tools: Python, pandas, plotly, dash_
 
 I have created a reactive and web-based dashboard application which enables interactive and real time visualization of the data, in this case, to visualize US domestic airline performance.<br/><br/>                                                                                                                                                                                     
    
 # Project 3   
-<img align="left" width="250" height="150" src="F:\revenue.jpg"/> **[Tesla vs GME stock revenue Prediction](https://github.com/nav-kumar/Learning/blob/8717efcbb16be028cf55d4ba05ac63a590b92955/Final%20Assignment%201.ipynb)** 
+<img align="left" width="250" height="150" src="https://uploads.tradestation.com/uploads/sites/2/GME_google_trends_20210127-1024x541.jpg" alt="Alt text"> **[Tesla vs GME stock revenue Prediction](https://github.com/nav-kumar/Learning/blob/8717efcbb16be028cf55d4ba05ac63a590b92955/Final%20Assignment%201.ipynb)** 
 
 _Tools: Python, numpy, pandas, matplotlib, seaborn, scipy, sklearn, time_
 
