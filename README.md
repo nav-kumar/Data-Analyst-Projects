@@ -160,7 +160,7 @@ SQL, Python, Machine Learning, NLP(Natural Language Processing),R, Pandas, Numpy
     _Authorized by IBM_ <br/>
     _Issued by Coursera, 20 January 2023_ <br/> 
     I have learnt introduction to Machine Learning and what it is, with topics like supervised vs unsupervised learning, linear & non-linear regression, simple regression and more. classification techniques using different classification algorithms, namely K-Nearest Neighbors (KNN), decision trees, and Logistic Regression. different types of clustering such as k-means, hierarchical clustering, and DBSCAN.
-- **[Business Analytics and Data Science Certification](https://www.coursera.org/account/accomplishments/specialization/certificate/MPY92MXFR9EA)**
+- **[Business Analytics and Data Science Certification]**
     
     _Authorized by HeroVired_ <br/>
     _Issued by Hero Group, <br/>
