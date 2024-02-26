@@ -159,7 +159,13 @@ SQL, Python, Machine Learning, NLP(Natural Language Processing),R, Pandas, Numpy
     
     _Authorized by IBM_ <br/>
     _Issued by Coursera, 20 January 2023_ <br/> 
-    I have learnt introduction to Machine Learning and what it is, with topics like supervised vs unsupervised learning, linear & non-linear regression, simple regression and more. classification techniques using different classification algorithms, namely K-Nearest Neighbors (KNN), decision trees, and Logistic Regression. different types of clustering such as k-means, hierarchical clustering, and DBSCAN. 
+    I have learnt introduction to Machine Learning and what it is, with topics like supervised vs unsupervised learning, linear & non-linear regression, simple regression and more. classification techniques using different classification algorithms, namely K-Nearest Neighbors (KNN), decision trees, and Logistic Regression. different types of clustering such as k-means, hierarchical clustering, and DBSCAN.
+- **[Business Analytics and Data Science Certification](https://www.coursera.org/account/accomplishments/specialization/certificate/MPY92MXFR9EA)**
+    
+    _Authorized by HeroVired_ <br/>
+    _Issued by Hero Group, <br/>
+    This Business Analytics and Data Science certificate issued by Hero Vired group which is a subsidary of Hero Group is earned after successfully completing 10 courses on various topics in Data Science and Machine Learning. The courses included working with hands-on with a variety of data sources, project scenarios, and data analysis tools, including Excel, PowerBI, Tableau, SQL, Relational Databases,Python, Jupyter Notebooks gaining practical experience with data manipulation, data analysis, and data visualization projects with python.
+    The earner of this Certificate has demonstrated proficiency in applying different data science and machine learning techniques by analyzing real-world datasets, creating  visualizations & interactive dashboards, and presenting reports to share findings of data analysis, and is now equipped with skills for a data scientist role in data science.
 - **[Data Visualization with Python](https://www.coursera.org/account/accomplishments/certificate/VHTBSUSDPZVU)**
     
     _Authorized by IBM_ <br/>
