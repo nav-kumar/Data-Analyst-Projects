@@ -26,7 +26,7 @@
 
 # Data Analysis, Data Science and Machine Learning Portfolio
 
-Highly motivated aspiring Data Scientist or any other related role in Data science domain with 2.5 years of total experience, including 1.5 years as a Data Analyst. Possesses a strong foundation in data analysis techniques (Excel, Power BI, SQL) and a passion for exploring advanced data science concepts (Python, statistics, machine learning). Proven ability to transform raw data into actionable insights, driving data-driven decision making and ability to learn independently. Gained hands-on experience by working on personal projects that showcases my work on  Data analysis ad visualization, creating dashboards. Seeking a Data Analyst role or similar opportunity within the data science domain to further develop expertise and contribute to impactful projects.
+Highly motivated aspiring Data Scientist with 2.5 years of total experience, including 1.5 years as a Data Analyst. Possesses a strong foundation in data analysis techniques (Excel, Power BI, SQL) and a passion for exploring advanced data science concepts (Python, statistics, machine learning). Proven ability to transform raw data into actionable insights, driving data-driven decision making and ability to learn independently. Gained hands-on experience by working on personal projects that showcases my work on  Data analysis ad visualization, creating dashboards. Seeking a Data Analyst role or similar opportunity within the data science domain to further develop expertise and contribute to impactful projects.
 
 This Portfolio is a compilation of the Data Analysis, Data Science and Machine Learning projects I have done for learning. It also contains my core competencies and certificates and is being updated on regular basis.
 
