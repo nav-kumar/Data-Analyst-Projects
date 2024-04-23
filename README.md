@@ -1,7 +1,7 @@
 # Naveen Kumar Pabbathi
 
 <div id="header" align="center">
-  <img src="https://imarticus.org/blog/wp-content/uploads/2017/10/scopet.gif" width="250"/>
+  <img src="https://assets.zyrosite.com/Aq20eV79zLfpXV6b/data-science-2-mP4XPq0y3wUKory9.gif" width="250"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/naveen-kumar-pabbathi-715194102/">
@@ -128,13 +128,38 @@ SpaceX advertises Falcon 9 rocket launches on its website, with a cost of 62 mil
 - Explore the data in order to obtain more insight from the data.
 
 # Project 2
+<img align="left" width="250" height="150" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*4s_-3J_Ut4vd0IB2tOnUYQ.png" alt="Alt text">**[Bank TeleMarketing Exploratory Data Analysis(EDA) using Python](https://github.com/nav-kumar/Data-Analyst-Projects/blob/0ede89d0cae0df6fca3e32ef34115760d34911f1/Data%20Analysis%20using%20Python/Bank_TeleMarketing_Project.ipynb)*
+
+## Case Study: Bank Telemarketing Campaign
+The bank aims to enhance its revenue by conducting a cost-efficient telemarketing campaign for term deposits among existing customers. Term deposits, fixed investments with predetermined interest rates, serve to foster long-term customer relationships. The objective is to conduct an end-to-end Exploratory Data Analysis (EDA) on the campaign dataset, identifying patterns and providing insights to improve the positive response rate. The analysis will involve examining customer demographics,temporal trends, and other factors influencing the success of the campaign, ultimately offering recommendations for targeted improvements in the bank's marketing strategy.
+
+# Project 3
+<img align="left" width="250" height="150" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*w2hGJO5gUD6se5yQ6Efsdw.png" alt="Alt text">**[Descriptive Statistics Project using Python](https://github.com/nav-kumar/Data-Analyst-Projects/blob/0ede89d0cae0df6fca3e32ef34115760d34911f1/Data%20Analysis%20using%20Python/DescriptiveStatisticsProject.ipynb)*
+
+This is a small graded assignment project of descriptive statistics with python done to enhance my understanding of statistics using python. A bank personal loan modelling data set is considered for performing statistical analysis for various scenario based questions like statistical summary of variables, linear relationship between age and experience variables, central tendency and measures of dispersion for all quantitative variables, percentage of variation for income variable, plotting a density curve, fidning outliers by boxplot, finding most frequent family size, decile values, Inter-Quartile range of all continuous and quantitative variables, no.of observations using the z-score of income variable
+
+# Project 4
+<img align="left" width="250" height="150" src="https://www.cleartouch.in/wp-content/uploads/2023/02/Customer-Segmentation.png" alt="Alt text">**[Customer Segmentation Project using Python](https://github.com/nav-kumar/Data-Analyst-Projects/blob/0ede89d0cae0df6fca3e32ef34115760d34911f1/Data%20Analysis%20using%20Python/Customer_Segmentation.ipynb)*
+
+A customer segmentation project using Python enables companies to gain actionable insights into their customer base, optimize marketing efforts, improve product development, enhance customer experience, maximize ROI, and maintain a competitive edge in the market. By segmenting customers based on their behavior, preferences, and demographics, companies gain a deeper understanding of their customer base. This understanding helps in tailoring marketing strategies, product offerings, and customer service to better meet the needs of different customer segments.
+
+# Project 5
+<img align="left" width="250" height="150" src="https://storage.googleapis.com/kaggle-datasets-images/1582403/2603715/fc66626bcce9dec0f401f3f69c2ab2d1/dataset-cover.jpg?t=2021-09-10-18-13-42" alt="Alt text">**[Heart disease prediction using Machine Learning models in  Python](https://github.com/nav-kumar/Data-Analyst-Projects/blob/0ede89d0cae0df6fca3e32ef34115760d34911f1/Data%20Analysis%20using%20Python/HeartdiseasePrediction.ipynb)*
+
+Heart disease prediction using machine learning models in Python plays a crucial role in early detection, risk stratification, personalized medicine, improved diagnosis, treatment optimization, research advancement, and population health management, ultimately leading to better patient care and outcomes.heart disease prediction using machine learning models in Python plays a crucial role in early detection, risk stratification, personalized medicine, improved diagnosis, treatment optimization, research advancement, and population health management, ultimately leading to better patient care and outcomes.By predicting the likelihood of developing heart disease, machine learning models help in stratifying patients based on their risk levels. This allows healthcare providers to prioritize resources and interventions for high-risk individuals.
+
+# Project 6
+<img align="left" width="250" height="150" src="https://learnfreeblog.com/wp-content/uploads/2024/02/Diabetes-Prediction-using-Machine-Learning-1.png" alt="Alt text">**[Diabetes prediction using Machine Learning models in Python](https://github.com/nav-kumar/Data-Analyst-Projects/blob/0ede89d0cae0df6fca3e32ef34115760d34911f1/Data%20Analysis%20using%20Python/Diabetes_Prediction.ipynb)*
+
+Diabetes prediction using machine learning models in Python plays a crucial role in early detection, risk assessment, personalized care, resource optimization, improved diagnosis and treatment, continuous monitoring, research advancement, and population health management, ultimately leading to better diabetes management and public health outcomes.Machine learning models can analyze patient data to identify patterns and risk factors associated with diabetes. Early detection enables timely interventions, lifestyle modifications, and preventive measures to reduce the incidence of diabetes and its complications.Machine learning algorithms help in assessing an individual's risk of developing diabetes based on factors such as genetics, medical history, lifestyle, and demographics. This information enables healthcare providers to deliver personalized care plans tailored to each patient's needs.
+
+# Project 7
 <img align="left" width="250" height="150" src="https://assets.fta.cirium.com/wp-content/uploads/2019/01/09024900/inv1.png" alt="Alt text"> **[Creating a Dashboard with Python: Airline Flights Performance](https://github.com/muratko357/dash_application/blob/main/US_Domestic_Airline_Flights_Performance.py)** 
 
 _Tools: Python, pandas, plotly, dash_
 
-I have created a reactive and web-based dashboard application which enables interactive and real time visualization of the data, in this case, to visualize US domestic airline performance.<br/><br/>                                                                                                                                                                                     
-   
-# Project 3   
+I have created a reactive and web-based dashboard application which enables interactive and real time visualization of the data, in this case, to visualize US domestic airline performance.<br/><br/>                                                                                                                                                                                       
+# Project 8 
 <img align="left" width="250" height="150" src="https://uploads.tradestation.com/uploads/sites/2/GME_google_trends_20210127-1024x541.jpg" alt="Alt text"> **[Tesla vs GME stock revenue Prediction](https://github.com/nav-kumar/Learning/blob/8717efcbb16be028cf55d4ba05ac63a590b92955/Final%20Assignment%201.ipynb)** 
 
 _Tools: Python, numpy, pandas, matplotlib, seaborn, scipy, sklearn, time_
