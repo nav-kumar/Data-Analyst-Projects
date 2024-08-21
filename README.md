@@ -50,6 +50,12 @@ This Portfolio is a compilation of the Data Analysis, Data Science and Machine L
 
 # PROJECTS 
 
+# IDENTIFYING CUSTOMER ATTRITION THROUGH PREDICTIVE ANALYTICS
+<img align="left" width="250" height="150" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/0*n7vG65S6qTv7KhZK.png" alt="Alt text"> **[Churn Modelling through Predictive Analytics](https://github.com/nav-kumar/Data-Analyst-Projects/tree/main/Data%20Analysis%20using%20Python/Capstone%20Group%203-Churn%20Modelling)**
+Business Objective: Customer churn is a concerning problem for large companies (especially in telecom field) due to its direct effect on the revenues. Companies often seek to know which customers are likely to churn in the recent future so that a timely action could be taken to prevent it.
+Problem Statement:Building various Machine Learning models that predicts which of their customers are likely to churn (stop using their service in future).
+
+
 # CREATING DASHBOARDS USING ADVANCED EXCEL
 
 ## Project 1
