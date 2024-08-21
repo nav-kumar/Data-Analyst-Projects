@@ -55,7 +55,7 @@ This Portfolio is a compilation of the Data Analysis, Data Science and Machine L
 Business Objective: Customer churn is a concerning problem for large companies (especially in telecom field) due to its direct effect on the revenues. Companies often seek to know which customers are likely to churn in the recent future so that a timely action could be taken to prevent it.Problem Statement:Building various Machine Learning models that predicts which of their customers are likely to churn (stop using their service in future).
 
 
-# CREATING DASHBOARDS USING ADVANCED EXCEL
+# DASHBOARDS USING ADVANCED EXCEL
 
 ## Project 1
 <img align="left" width="250" height="150" src="https://i.ytimg.com/vi/6qOL69bIQz8/maxresdefault.jpg" alt="Alt text"> **[Call center Data Analysis-creating a dashboard with excel](https://github.com/nav-kumar/Data-Analyst-Projects/tree/c13c2259c23f52fffaf6e89315c560ba02922d62/Excel%20Dashboard%20Project)**
